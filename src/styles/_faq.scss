@@ -49,8 +49,64 @@
                     padding-bottom: 24px;
                     transition: height, .5s ease;
                 }
-
             }
         }
     }
+    .faq__questions__item__answer li {
+        display: flex; 
+        align-items: center; 
+        margin-bottom: 10px; 
+    }
+
+    .faq-image {
+        color: #fff;
+        width: 20px; 
+        height: auto; 
+        margin-right: 10px;
+}
+.katon {
+    color: #ff0000;
+}
+
+.doton {
+    color: #a94b00;
+}
+
+.suiton {
+    color: #0011ff;
+}
+
+.raiton {
+    color: #ff9900; 
+}
+
+.fuuton {
+    color: #1bb31b;
+}
+
+.iwag {
+    background-color: #a94b00;
+    color: #fff; 
+}
+
+.kiri {
+    background-color: #7ec8c9; 
+    color: #fff; 
+}
+
+.kono {
+    background-color: #4b9e49;
+    color: #fff; 
+}
+
+.kumo {
+    background-color: #0400ff; 
+    color: #fff; 
+}
+
+.suna {
+    background-color: #ff9900; 
+    color: #fff; 
+}
+
 }
